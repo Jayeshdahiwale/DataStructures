@@ -15,7 +15,7 @@ logging.basicConfig(level=logging.INFO, format="%(asctime)s:%(levelname)s:%(mess
 
 def count_string(list_input):
     """
-    Description :Count string with length >2 and first char = second char
+    Description :Count string with length >2 and first char = last char
     :param list_input:Takes a list of string as input
     :return: returns a count  of specific strings
     """
