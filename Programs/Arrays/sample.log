@@ -1,0 +1,28 @@
+2022-04-13 19:36:14,134 [INFO] 3
+2022-04-13 19:36:14,134 [INFO] 56
+2022-04-13 19:36:14,135 [INFO] 90
+2022-04-13 19:36:14,135 [INFO] 18
+2022-04-13 19:36:14,135 [INFO] 75
+2022-04-13 20:28:28,906 [INFO] 52
+2022-04-13 20:28:28,906 [INFO] 11
+2022-04-13 20:28:28,906 [INFO] 8
+2022-04-13 20:28:28,906 [INFO] 74
+2022-04-13 20:28:28,906 [INFO] 78
+2022-04-13 21:01:00,935 [INFO] [4, 3, 2, 1]
+2022-04-13 22:29:33,044 [INFO] 3
+2022-04-13 23:00:02,440:INFO:The resulted array is :[1, 2, 3, 4, 4]
+2022-04-13 23:32:51,745:INFO:The sorted dictionary is descending order {'Green': 8, 'Red': 5, 'Blue': 4, 'Black': 3}
+2022-04-13 23:37:08,804:INFO:The sorted dictionary in ascending order {'Black': 3, 'Blue': 4, 'Red': 5, 'Green': 8}
+2022-04-14 08:20:01,727:INFO:The updated dictionary is :
+2022-04-14 08:20:01,728:INFO:{2: 'Blue', 3: 'White', 1: 'Red'}
+2022-04-14 09:24:35,501 [INFO] 36
+2022-04-14 09:24:35,501 [INFO] 67
+2022-04-14 09:24:35,502 [INFO] 63
+2022-04-14 09:24:35,502 [INFO] 10
+2022-04-14 09:24:35,502 [INFO] 62
+2022-04-14 09:28:02,680 [INFO] 3
+2022-04-14 09:31:53,011:INFO:The sorted dictionary in ascending order {'Black': 3, 'Blue': 4, 'Red': 5, 'Green': 8}
+2022-04-14 09:33:20,921:INFO:The updated dictionary is :
+2022-04-14 09:33:20,921:INFO:{2: 'Blue', 3: 'White', 1: 'Red'}
+2022-04-14 09:33:54,479:INFO:The updated dictionary is :
+2022-04-14 09:33:54,481:INFO:{2: 'Red', 3: 'White'}
