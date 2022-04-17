@@ -11,7 +11,7 @@ import sys
 
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s:%(levelname)s:%(message)s",
-                    handlers=[logging.FileHandler("sample.log"), logging.StreamHandler(sys.stdout)])
+                    handlers=[logging.FileHandler("sample1.log"), logging.StreamHandler(sys.stdout)])
 
 def iterate_dic(dictionary):
     """
